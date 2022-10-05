@@ -1,2 +1,2 @@
 # Shakiru-Arowogbadamu-Prodt.Management.P
-This is a owner formally by Shakiru Arowogbadamu
+This is a meant to be a product management Porfolio of Shakiru Arowogbadamu
